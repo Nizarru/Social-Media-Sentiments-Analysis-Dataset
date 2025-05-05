@@ -82,9 +82,3 @@ Analisis visual dilakukan untuk memahami distribusi sentimen, aktivitas berdasar
 ## 📄 Lisensi
 
 Dataset ini berada dalam domain publik (CC0: Public Domain). Proyek ini menggunakan lisensi MIT. Silakan merujuk ke file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
-## 🙏 Kontribusi
-
-Kontribusi sangat diterima! Jika Anda memiliki saran, perbaikan, atau ingin menambahkan fitur baru, silakan buat pull request atau buka issue.
-
----
